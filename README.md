@@ -1,19 +1,19 @@
 # Retail-Dataset---Dummy-Project
 **1. Project Preview**
 
-This project aims to analyze bikes sales data from 2011-2016. The main objective of this analysis is to identify trends and top-selling products in order to provide business insights that can support decision-making.
+This project aims to analyze reetail dataset sales from 2016-2018. The main objective of this analysis is to identify trends and top-selling products in order to provide business insights that can support decision-making.
 
 **2. Tools & Technology**
 
-**- Database:** Pandas
+**- Data Preparation:** Pandas
 
-**- Data Manipulation & Analysis:** SQL
+**- Exploratory Data Analysis:** SQL
 
 **- Visualisasi & Dashboard:** Power BI Desktop
 
 **3. Data Source**
    
-The dataset used is containing information about product sales and transactions in 2011-2016.
+The dataset used is containing information about retail sales and transaction in 2016-2018.
 
 **4. Key Analysis Steps**
 
