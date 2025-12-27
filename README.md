@@ -1,9 +1,9 @@
 # Retail-Dataset---Dummy-Project
 **1. Project Preview**
 
-This project aims to analyze reetail dataset sales from 2016-2018. The main objective of this analysis is to identify trends and top-selling products in order to provide business insights that can support decision-making.
+Project ini bertujuan menganalisis performa penjualan retail menggunakan data transaksi yang mencakup order, customer, product, payment, dan order item. Analisis difokuskan pada pertumbuhan bisnis, perilaku pelanggan, efisiensi operasional, serta identifikasi produk dan kategori yang paling berkontribusi terhadap revenue. Dashboard dibangun menggunakan Power BI dengan pendekatan end-to-end data analysis, dari eksplorasi data hingga business insight dan rekomendasi strategis.
 
-**2. Tools & Technology**
+**2. Tools & Skills**
 
 **- Data Preparation:** Pandas
 
@@ -11,32 +11,76 @@ This project aims to analyze reetail dataset sales from 2016-2018. The main obje
 
 **- Visualisasi & Dashboard:** Power BI Desktop
 
-**3. Data Source**
+**- Business Analytics**
+
+**- Pareto Analysis, Cohort Analysis, Time Series Analysis**
+
+**3. Business Problem**
+
+- Bagaimana pola pembelian pelanggan berdasarkan waktu, metode pembayaran, dan lokasi?
    
-The dataset used is containing information about retail sales and transaction in 2016-2018.
+- Apa faktor-faktor penyebab tingkat cancel order yang tinggi?
 
-**4. Key Analysis Steps**
+- Mengapa retensi pembelian setelah pembelian pertama sangat kecil?
 
-In this project, I performed several key data analysis steps:
+- Apakah pendapatan utama penjualan sangat bergantung pada beberapa kategori produk?
 
-  **- Data Cleaning & Transformation**: Using Pandas for cleaning the data drop null value, add new column like day name, then using SQL for analysis and calculated key metrics.
-    
-   **- Key Performance Indicators (KPIs)**: Calculating important metrics such as total revenue, average operational value, total sold, gross merchant value, and average order value.
-    
-   **- Sales Trend Analysis**: Analyzing sales patterns based on time (daily, monthly, and yearly) to identify peak sales periods.
-    
-   **- Product Performance**: Identifying the top 5 best-selling items and the most profitly product category.
+- Apakah pengiriman produk relatif lama?
 
-**5. Key Insights**
+**4. Objective of Analysis**
+
+- Mengukur business growth (customers, orders, revenue, delivery performance)
+
+- Mengidentifikasi top contributor products & categories
+
+- Menganalisis customer behavior (time-based order, payment type, city)
+
+- Mengevaluasi order cancellation behavior
+
+- Menerapkan Pareto Analysis untuk efisiensi strategi bisnis
+
+**5. Key Metrics**
 
 Here are a few of the key insights presented in the interactive dashboard:
 
-   **- Busiest Days**: The highest sales occur during the weekend, particulary saturday and sunday.
-   
-   **- Most Popular Product**: 'Water Bottle - 30 oz' is the best-selling products sold in the store.
-   
-   **- Increase Profit**: Profits increased significally in 2013 and 2015, this occurred because sales began to add accessories and clothing category. This was evident in 2014, when sales in these sectors were discontinued, and profits also declined.
-   
-   **- Peak Months**: The Highest Sales occur during the June and December, where this is a holiday month.
+   - Total Customers: 96K (+118% YoY)
 
-   <img width="1186" height="665" alt="Visualisasi FIX" src="https://github.com/user-attachments/assets/ca244802-c645-4abf-b303-900b2a57c81d" />
+   - Total Orders: 99K (+118% YoY)
+
+   - Total Revenue: 1.36B (+122% YoY)
+
+   - Avg Delivery Days: 12.5 hari (lebih cepat dari tahun sebelumnya)
+
+   - Pareto Sales Contribution: ~78% revenue berasal dari 20% produk
+
+**6. Analysis Highlights**
+
+- Pertumbuhan bisnis signifikan pada customer, order, dan revenue secara YoY
+
+- Kategori Toys menjadi kontributor revenue terbesar
+
+- Pareto Analysis menunjukkan sebagian kecil produk mendominasi penjualan
+
+- Order terbanyak terjadi pada jam siang–malam, menandakan peak buying hours
+
+- Metode pembayaran credit card paling dominan
+
+- Kota Sao Paulo menjadi penyumbang revenue terbesar
+
+- Mayoritas pembatalan terjadi sebelum proses delivery, mengindikasikan isu di tahap awal order lifecycle
+
+- Cohort analysis menunjukkan retention menurun seiring waktu, pola umum e-commerce
+
+  **7. Business Recomendation**
+
+  - Fokuskan strategi pada top 20% kategori
+ 
+  - Perbaiki customer retention
+ 
+  - Kurangi cancel di tahap awal
+ 
+  - Optimalkan delivery di kota besar
+ 
+  - Manfaatkan jam pemesanan puncak
+ 
+  - Dorong metode pembayaran dominan
