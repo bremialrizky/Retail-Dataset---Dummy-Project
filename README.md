@@ -1,7 +1,7 @@
 # Retail-Dataset---Dummy-Project
 **1. Project Preview**
 
-Project ini bertujuan menganalisis performa penjualan retail menggunakan data transaksi yang mencakup order, customer, product, payment, dan order item. Analisis difokuskan pada pertumbuhan bisnis, perilaku pelanggan, efisiensi operasional, serta identifikasi produk dan kategori yang paling berkontribusi terhadap revenue. Dashboard dibangun menggunakan Power BI dengan pendekatan end-to-end data analysis, dari eksplorasi data hingga business insight dan rekomendasi strategis.
+This project aims to analyze retail sales performance using transaction data covering orders, customers, products, payments, and ordered items. The analysis focuses on business growth, customer behavior, operational efficiency, and identifying the products and categories that contribute most to revenue. The dashboard was built using Power BI with an end-to-end data analysis approach, from data exploration to business insights and strategic recommendations.
 
 **2. Tools & Skills**
 
@@ -17,70 +17,70 @@ Project ini bertujuan menganalisis performa penjualan retail menggunakan data tr
 
 **3. Business Problem**
 
-- Bagaimana pola pembelian pelanggan berdasarkan waktu, metode pembayaran, dan lokasi?
+- What are customer purchasing patterns based on time, payment method, and location?
    
-- Apa faktor-faktor penyebab tingkat cancel order yang tinggi?
+- What are the factors that cause high order cancellation rates?
 
-- Mengapa retensi pembelian setelah pembelian pertama sangat kecil?
+- Why is purchase retention after the first purchase so small?
+  
+- Does the main sales revenue depend heavily on a few product categories?
 
-- Apakah pendapatan utama penjualan sangat bergantung pada beberapa kategori produk?
-
-- Apakah pengiriman produk relatif lama?
+- Is the product delivery relatively long?
 
 **4. Objective of Analysis**
 
-- Mengukur business growth (customers, orders, revenue, delivery performance)
+- Measuring business growth (customers, orders, revenue, delivery performance)
 
-- Mengidentifikasi top contributor products & categories
+- Identify top contributor products & categories
 
-- Menganalisis customer behavior (time-based order, payment type, city)
+- Analyze customer behavior (time-based order, payment type, city)
 
-- Mengevaluasi order cancellation behavior
+- Evaluate order cancellation behavior
 
-- Menerapkan Pareto Analysis untuk efisiensi strategi bisnis
+- Applying Pareto Analysis for business strategy efficiency
 
 **5. Key Metrics**
 
 Here are a few of the key insights presented in the interactive dashboard:
 
-   - Total Customers: 96K (+118% YoY)
+   **- Total Customers:** 96K (+118% YoY)
 
-   - Total Orders: 99K (+118% YoY)
+   **- Total Orders:** 99K (+118% YoY)
 
-   - Total Revenue: 1.36B (+122% YoY)
+   **- Total Revenue:** 1.36B (+122% YoY)
 
-   - Avg Delivery Days: 12.5 hari (lebih cepat dari tahun sebelumnya)
+   **- Avg Delivery Days:** 12.5 days (faster than previous year)
 
-   - Pareto Sales Contribution: ~78% revenue berasal dari 20% produk
+   **- Pareto Sales Contribution:** ~78% revenue berasal dari 20% produk
 
 **6. Analysis Highlights**
 
-- Pertumbuhan bisnis signifikan pada customer, order, dan revenue secara YoY
+- Significant business growth in customers, orders, and revenue on a YoY basis
+  
+- The Toys category is the largest revenue contributor
 
-- Kategori Toys menjadi kontributor revenue terbesar
+- Pareto Analysis shows that a small number of products dominate sales.
 
-- Pareto Analysis menunjukkan sebagian kecil produk mendominasi penjualan
+- Most orders occur during the day and night, indicating peak buying hours.
 
-- Order terbanyak terjadi pada jam siang–malam, menandakan peak buying hours
+- The most dominant credit card payment method
 
-- Metode pembayaran credit card paling dominan
+- The city of Sao Paulo is the largest contributor of revenue
 
-- Kota Sao Paulo menjadi penyumbang revenue terbesar
-
-- Mayoritas pembatalan terjadi sebelum proses delivery, mengindikasikan isu di tahap awal order lifecycle
-
-- Cohort analysis menunjukkan retention menurun seiring waktu, pola umum e-commerce
+- The majority of cancellations occur before the delivery process, indicating issues early in the order lifecycle.
+  
+- Cohort analysis shows retention declines over time, a common pattern in e-commerce.
 
   **7. Business Recomendation**
 
-  - Fokuskan strategi pada top 20% kategori
+  - Focus strategy on top 20% categories
  
-  - Perbaiki customer retention
+  - Improve customer retention
  
-  - Kurangi cancel di tahap awal
+  - Reduce cancellations in the early stages
  
-  - Optimalkan delivery di kota besar
+  - Optimize delivery in big cities
  
-  - Manfaatkan jam pemesanan puncak
+  - Take advantage of peak booking hours
  
-  - Dorong metode pembayaran dominan
+  - Encourage dominant payment methods
