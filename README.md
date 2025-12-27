@@ -73,14 +73,14 @@ Here are a few of the key insights presented in the interactive dashboard:
 
   **7. Business Recomendation**
 
-  - Focus strategy on top 20% categories
+- Focus strategy on top 20% categories
  
-  - Improve customer retention
+- Improve customer retention
  
-  - Reduce cancellations in the early stages
+- Reduce cancellations in the early stages
  
-  - Optimize delivery in big cities
+- Optimize delivery in big cities
  
-  - Take advantage of peak booking hours
+- Take advantage of peak booking hours
  
-  - Encourage dominant payment methods
+- Encourage dominant payment methods
