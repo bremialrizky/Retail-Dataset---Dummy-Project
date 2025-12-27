@@ -5,15 +5,15 @@ This project aims to analyze retail sales performance using transaction data cov
 
 **2. Tools & Skills**
 
-**- Data Preparation:** Pandas
+- **Data Preparation:** Pandas
 
-**- Exploratory Data Analysis:** SQL
+- **Exploratory Data Analysis:** SQL
 
-**- Visualisasi & Dashboard:** Power BI Desktop
+- **Visualisasi & Dashboard:** Power BI Desktop
 
-**- Business Analytics**
+- **Business Analytics**
 
-**- Pareto Analysis, Cohort Analysis, Time Series Analysis**
+- **Pareto Analysis, Cohort Analysis, Time Series Analysis**
 
 **3. Business Problem**
 
